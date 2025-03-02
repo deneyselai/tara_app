@@ -29,3 +29,6 @@ pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pandas
 pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org yfinance
 pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org plotly
 pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org matplotlib
+
+## Referanslar
+1. [Yapay Zeka ve Finans: Yapay Zekanın Borsadaki yeri ve etkileri](https://medium.com/@bekirburaksaka/yapay-zeka-ve-finans-yapay-zekan%C4%B1n-borsadaki-yeri-ve-etkileri-41ed6ba70b49)
